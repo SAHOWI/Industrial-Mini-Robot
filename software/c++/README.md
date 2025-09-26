@@ -4,17 +4,11 @@
 ```code 
 >tree
 .
-
 └───control
-
-&nbsp;   ├───control
-
-&nbsp;   ├───doc
-
-&nbsp;   ├───lib
-
-&nbsp;   └───tests
-
+    ├───control
+    ├───doc
+    ├───lib
+    └───tests
 ```
 
 
