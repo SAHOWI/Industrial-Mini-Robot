@@ -4,25 +4,28 @@
 ```code 
 >tree
 .
-├───control
-│   │   CMakeLists.txt
-│   │   main.cpp
-│   │   README.md
-│   │
-│   ├───include
-│   │       controller.h
-│   │
-│   └───src
-│           controller.cpp
+│   README.md
 │
-├───doc
-│       README.md
-│
-├───lib
-│       README.md
-│
-└───tests
-        README.md
+└───control
+    ├───control
+    │   │   CMakeLists.txt
+    │   │   main.cpp
+    │   │   README.md
+    │   │
+    │   ├───include
+    │   └───src
+    │           controller.cpp
+    │           controller.h
+    │
+    ├───doc
+    │       README.md
+    │
+    ├───lib
+    │       README.md
+    │
+    └───tests
+            README.md
+
 ```
 
 
